@@ -8,6 +8,7 @@ var options = {
     password: '<Chayma-aquatec159>'
 }
 
+
 //initialize the MQTT client
 var client = mqtt.connect(options);
 
